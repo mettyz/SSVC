@@ -1,4 +1,4 @@
-# S$^2$VC
+# SSVC
 
 The source code for paper [Suppressing Static Visual Cues via Normalizing Flows for Self-Supervised Video Representation Learning]
 
